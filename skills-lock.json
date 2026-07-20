@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-creator": {
+      "source": "nextlevelbuilder/skillx",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/skill-creator/SKILL.md",
+      "computedHash": "ba0607b19d5664c06c0ad48bf2c83418d913b0a93a03b7abf0767d9774eb4644"
+    },
+    "skillx": {
+      "source": "nextlevelbuilder/skillx",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/skillx/SKILL.md",
+      "computedHash": "1b7dfe34812c99f062f51434e6258fcb50bddafefb699d6bce893f5acede5ee5"
+    }
+  }
+}
